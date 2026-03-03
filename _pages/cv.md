@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Chloe Tseng - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -8,19 +8,19 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [ckt38@cornell.edu](mailto:ckt38@cornell.edu) | | | **Phone:** +858 943 9028
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in FILL THIS IN Passionate about ... and eager to apply my knowledge in real-world applications.
 
 ---
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  *Bachelor of Science in Biological Engineering*  
+  GPA: 3.61/4.0 | Graduation: May, 2028
 
 - **[High School Name]**  
   *High School Diploma*  
