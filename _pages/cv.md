@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Chloe Tseng - Curriculum Vitae
+title: Chloe Tseng - Resume
 permalink: /cv/
 ---
-## Curriculum Vitae
+## Resume
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my Resume]({{ "/assets/ChloeT-Resume.pdf" | relative_url }}) in PDF format.
 
 
 **Email:** [ckt38@cornell.edu](mailto:ckt38@cornell.edu) | | | **Phone:** +858 943 9028
@@ -13,7 +13,7 @@ permalink: /cv/
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in FILL THIS IN Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in physical and biological sciences. Passionate about the intersection of biology and engineering and eager to apply my knowledge in real-world applications.
 
 ---
 
@@ -22,16 +22,16 @@ Aspiring engineering student with a strong foundation in FILL THIS IN Passionate
   *Bachelor of Science in Biological Engineering*  
   GPA: 3.61/4.0 | Graduation: May, 2028
 
-- **[High School Name]**  
+- **Del Norte High School**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: June, 2024
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Software:** SolidWorks
+- **Programming:** Python
+- **Lab:** Mammalian Cell Culture, SDS Page, Size Exclusion Chromatography, Affinity Chromatography  
 
 ---
 
@@ -49,22 +49,16 @@ Aspiring engineering student with a strong foundation in FILL THIS IN Passionate
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **Trutino Biosciences - Intern**  
+  June, 2025 - August, 2025  
+  - Reported under Dr. Chen Li  
+  - Protein Engineering and Antibody Discovery  
 
----
-
-#### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
 
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Member of Cornell Baja Racing and Delta Delta Delta  
 
 ---
 
