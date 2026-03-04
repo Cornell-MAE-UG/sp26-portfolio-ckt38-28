@@ -36,7 +36,7 @@ The following is a free body diagram showing the mechanism of the nutcracker:
 ![FBD of nutcracker]({{ "/assets/images/nutcracker-fbd.png" | relative_url }}){: .center-image style="width: 500px"}
 
 Using a moment balance, we get the equation
-$$\sum M_o = 0 = F_G(d) - F_N(20\ \text{mm})$$
+$$\sum M_o = 0 = F_G(d) - F_N(20\ \text{mm})$$. 
 Where $F_G$ is the grip strength and Force In, $F_N$ is the force to crack the nut and Force Out, and $d$ is the distance from joint $O$ to the location of the applied force.
 
 Solving this, we get 120 mm, or ~5 inches  
