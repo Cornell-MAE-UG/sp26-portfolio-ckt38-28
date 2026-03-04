@@ -39,6 +39,5 @@ Where $F_G$ is the grip strength and Force In, $F_N$ is the force to crack the n
 
 Solving this, we get 120 mm, or ~5 inches
 
-
-
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+#### Discussion
+This design is feasible but not entirely accessible. The nutcracker is relatively small and would require a fairly substantial amount of grip strength for most women. Making the arms of the nutcracker longer would increase the mechanical advantage and require less grip force to crack the macadamia nut.
