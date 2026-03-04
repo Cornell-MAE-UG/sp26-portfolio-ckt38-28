@@ -126,6 +126,13 @@ footer {
   }
 }
 
+.center-image {
+  display: block;
+  margin: 25px auto;
+  max-width: 500px;
+  float: none;
+}
+
 .profile-image, .project-image {
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
