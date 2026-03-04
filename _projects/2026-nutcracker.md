@@ -12,8 +12,8 @@ For a Homework 4, we were given a design problem to create a device that could c
 Image you have a macadamia nut that you want to crack open by hand using a simple lever nut cracker. Draw a figure of the nut cracker with the nut when it’s about to crack. Calculate the necessary dimensions of the nutcracker and come up with a design to make this task feasible.
 
 #### Given
-![table of average nut hardness values]({{ "/assets/images/nut-hardness.png" | relative_url }}){: .center-image style="width: 400px"}
-![table of average grip strength for men and women]({{ "/assets/images/grip-strength.png" | relative_url }}){: .center-image style="width: 400px"}
+![table of average nut hardness values]({{ "/assets/images/nut-hardness.png" | relative_url }}){: .project-image style="width: 400px"}
+![table of average grip strength for men and women]({{ "/assets/images/grip-strength.png" | relative_url }}){: .project-image style="width: 400px"}
 
 From the first graph, we can see that the average force to crack a macadamia nut is around 225 kg, or 2205 N. A quick google search states that the average size of macademia nuts is about 25 mm.
 The second chart shows average grip strengths for men and women across various ages. For the sake of analysis, I chose 40 kg or 392 N as the max grip strength exerted on the nutcracker.
@@ -33,7 +33,7 @@ Assuming $F_\text{out}$ is the force required to crack the nut and $F_\text{in}$
 To make this a conservative model, I rounded up to MA=6
 
 The following is a free body diagram showing the mechanism of the nutcracker:
-![FBD of nutcracker]({{ "/assets/images/nutcracker-fbd.png" | relative_url }}){: .center-image}
+![FBD of nutcracker]({{ "/assets/images/nutcracker-fbd.png" | relative_url }}){: .project-image}
 
 Using a moment balance, we get the equation
 $$\sum M_o = 0 = F_G(d) - F_N(20\ \text{mm})$$
