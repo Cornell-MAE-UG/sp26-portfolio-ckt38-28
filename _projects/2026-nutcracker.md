@@ -26,7 +26,7 @@ Max grip strength: 392 N.
 Mechanical advantage is described by the following equation:
 $$
 \sum M_o = 0 = F_G(d) - F_N(20\,\text{mm})
-$$
+$$. 
 Assuming $F_\text{out}$ is the force required to crack the nut and $F_\text{in}$ is the grip force applied to the lever, we get a MA value of 5.62
 
 #### Solve
