@@ -57,6 +57,12 @@ $$I_{req} \approx 435\text{ mm}^4$$
 * **Wall Thickness ($t$):** 1 mm
 * **Total Handle Mass:** ~6.1 g
 
+Prototype generation:
+
+<div style="text-align: center;">
+  ![Prototype](/assets/images/prototype.png)
+</div>
+
 ---
 
 ## 4. Conclusion
